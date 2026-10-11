@@ -1,0 +1,16 @@
+# Backup e file temporanei
+*~
+*.bak
+*.backup
+*.swp
+*.tmp
+.#*
+
+# Credenziali e chiavi private
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+id_rsa
+id_ed25519
